@@ -17,8 +17,10 @@ pip install -r requirement.txt
 ```
 
 ## 特别鸣谢
-### 本项目基于冷文傲大佬的脚本改写：https://rcnzopjgoh19.feishu.cn/wiki/ArWBwF0CKirbSuknw0tcqK4bnfh?share_token=84574a5d-825e-421a-9f85-6e7787bd1154
+### 提供原始脚本的冷文傲大佬（本项目基于此改编）：https://rcnzopjgoh19.feishu.cn/wiki/ArWBwF0CKirbSuknw0tcqK4bnfh?share_token=84574a5d-825e-421a-9f85-6e7787bd1154
 
-### 本项目依赖于上海科技大学公开的题库
+### 提供本项目题库的上海科技大学
 
-### 感谢昨夜各大高校、RMer的贡献
+### 昨夜对题库完善做出贡献的各大高校、RMer
+
+### chatgpt
